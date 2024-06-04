@@ -1,0 +1,5 @@
+neco
+neco tam pripisu z githubu
+dalsi commit
+druhy commit
+treti commit
